@@ -1,1 +1,1 @@
-# cv-static-aws
+# Introduction to AWS Course in Platzi 
